@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Adrian Zygmunt
-- 👀 I’m interested in Programing overall
-- 🌱 I’m currently learning Javascript, Typescript, React ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Adrian Zygmunt. <br>
+Second year IT student at University of Silesia. <br>
+Interested in Web Development. <br>
 
-<!---
-ZIM0L/ZIM0L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• Contact me via: • sylzyg555@interia.pl <br>
+• I like reading books, gym stuff, some coding.
