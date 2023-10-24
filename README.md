@@ -1,14 +1,14 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h2>Hi</h2><hr><br> 
-I’m Adrian Zygmunt. <br>
-Third year IT student at University of Silesia. <br>
+<h2>Hi, I’m Adrian. :wave:</h2><hr><br> 
+
+I'm Third year IT student at University of Silesia. <br>
 Interested in Web Development. <br>
 
-• CodePen: https://codepen.io/ZIM0L <br>
-• Figma Profile: https://figma.com/files/team/1176569669661062162 <br>
-• Contact me via: • sylzyg555@interia.pl <br>
-• I like reading books, gym stuff, some coding.
-
+Mostly used: <br>
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,tailwind,vite,figma,ps,vscode)](https://skillicons.dev) <br>
 Familiar with: <br>
-<i class="devicon-react-original colored"></i>
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,mysql)](https://skillicons.dev) <br>
+Getting familiar with:  <br>
+[![My Skills](https://skillicons.dev/icons?i=firebase,dart,flutter,neovim)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZIM0L&show_icons=true&title_color=ff5c92&text_color=faedf1&icon_color=cc4773&border_color=42212c&theme=jolly&bg_color=00000000)
           
