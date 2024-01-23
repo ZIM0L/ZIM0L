@@ -4,7 +4,7 @@ I'm Third year IT student at University of Silesia. <br>
 Interested in Web Development. <br>
 
 Mostly used: <br>
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,tailwind,vite,figma,ps,vscode)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,redux,tailwind,vite,figma,ps,vscode)](https://skillicons.dev) <br>
 Familiar with: <br>
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,mysql)](https://skillicons.dev) <br>
 Getting familiar with:  <br>
